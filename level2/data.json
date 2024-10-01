@@ -1,0 +1,70 @@
+[
+    {
+        "id": 0,
+        "productName": "Fresh Lemon",
+        "image": "🍋",
+        "from": "spain",
+        "nutrients": "Vitamin C,E",
+        "quantity": "4🍋",
+        "price": "6.50",
+        "organic": "true",
+        "description": "Lemon is a small, yellow citrus fruit known for its tangy flavor and rich vitamin C content. It is commonly used in cooking, beverages, and as a natural remedy."
+    },
+    {
+        "id": 1,
+        "productName": "Organic Orange",
+        "image": "🍊",
+        "from": "USA",
+        "nutrients": "Vitamin C, Fiber",
+        "quantity": "6🍊",
+        "price": "8.00",
+        "organic": "true",
+        "description": "Orange is a juicy citrus fruit packed with vitamin C and fiber, perfect for a refreshing snack or juice."
+      },
+      {
+        "id": 2,
+        "productName": "Green Apple",
+        "image": "🍏",
+        "from": "Canada",
+        "nutrients": "Vitamin A, Fiber",
+        "quantity": "5🍏",
+        "price": "7.50",
+        "organic": "true",
+        "description": "Green apple has a tart flavor and is rich in fiber and vitamin A, often used in salads or eaten raw."
+      },
+      {
+        "id": 3,
+        "productName": "Banana",
+        "image": "🍌",
+        "from": "Ecuador",
+        "nutrients": "Potassium, Vitamin B6",
+        "quantity": "6🍌",
+        "price": "5.00",
+        "organic": "false",
+        "description": "Bananas are sweet and rich in potassium, making them a great snack or smoothie ingredient."
+      },
+      {
+        "id": 4,
+        "productName": "Strawberry",
+        "image": "🍓",
+        "from": "Mexico",
+        "nutrients": "Vitamin C, Antioxidants",
+        "quantity": "20🍓",
+        "price": "12.00",
+        "organic": "true",
+        "description": "Strawberries are vibrant red berries filled with antioxidants and vitamin C, often used in desserts or eaten fresh."
+      },
+      {
+        "id": 5,
+        "productName": "Avocado",
+        "image": "🥑",
+        "from": "Peru",
+        "nutrients": "Healthy Fats, Fiber",
+        "quantity": "3🥑",
+        "price": "9.00",
+        "organic": "true",
+        "description": "Avocados are creamy fruits high in healthy fats and fiber, commonly used in salads, spreads, and smoothies."
+      }
+      
+
+]
